@@ -1,0 +1,19 @@
+{ This is an automatically generated lazarus resource file }
+
+LazarusResources.Add('TfrlDANFeRL','FORMDATA',[
+  'TPF0'#11'TfrlDANFeRL'#10'frlDANFeRL'#4'Left'#3#176#3#6'Height'#3'z'#2#3'Top'
+  +#3'P'#1#5'Width'#3'*'#3#7'Caption'#6#10'frlDANFeLR'#12'ClientHeight'#3'z'#2
+  +#11'ClientWidth'#3'*'#3#5'Color'#7#9'clBtnFace'#10'Font.Color'#7#12'clWindow'
+  +'Text'#11'Font.Height'#2#245#9'Font.Name'#6#13'MS Sans Serif'#8'OnCreate'#7
+  +#10'FormCreate'#8'Position'#7#16'poMainFormCenter'#10'LCLVersion'#6#7'1.6.0.'
+  +'4'#7'Visible'#8#0#9'TRLReport'#5'RLNFe'#4'Left'#2#8#6'Height'#3'c'#4#3'Top'
+  +#2#254#5'Width'#3#26#3#10'Font.Color'#7#7'clBlack'#11'Font.Height'#2#243#9'F'
+  +'ont.Name'#6#5'Arial'#24'PreviewOptions.ShowModal'#9#22'PreviewOptions.Capti'
+  +'on'#6#5'DANFe'#15'RealBounds.Left'#5#0#0#0#0#0#0#0#0#0#0#14'RealBounds.Top'
+  +#5#0#0#0#0#0#0#0#0#0#0#16'RealBounds.Width'#5#0#0#0#0#0#0#0#0#0#0#17'RealBou'
+  +'nds.Height'#5#0#0#0#0#0#0#0#0#0#0#12'ShowProgress'#8#0#0#12'TRLPDFFilter'#12
+  +'RLPDFFilter1'#19'DocumentInfo.Author'#6'>FortesReport 3.23 - Copyright '#194
+  +#169' 1999-2009 Fortes Inform'#195#161'tica'#20'DocumentInfo.Creator'#6#30'P'
+  +'rojeto ACBr (Componente NF-e)'#11'DisplayName'#6#13'Documento PDF'#4'left'#3
+  +' '#1#3'top'#2'`'#0#0#0
+]);
